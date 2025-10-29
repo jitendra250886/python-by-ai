@@ -50,3 +50,8 @@ git push
 
 ---
 **Tip:** Repeat steps 4–7 for each change. Keep commits small and meaningful.
+
+
+---
+[⬅ Back to Cheat Sheet Index](CHEATSHEET_INDEX.md)
+

@@ -66,3 +66,7 @@ mypy .                         # type-check
 ## Common Pitfalls
 - Activate the **venv** before installing/running.
 - If `python` not found on Windows, try `py -3 --version` or reinstall with PATH.
+
+---
+[⬅ Back to Cheat Sheet Index](CHEATSHEET_INDEX.md)
+

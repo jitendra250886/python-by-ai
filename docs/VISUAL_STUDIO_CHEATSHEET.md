@@ -36,3 +36,8 @@ Ctrl+K, D        Format document
 - Keep **venv** inside project for easy detection (`./venv`).
 - Use Git panel for quick commits; terminal for advanced Git.
 - Consider VS Code if you prefer a lighter editor; both work.
+
+
+---
+[⬅ Back to Cheat Sheet Index](CHEATSHEET_INDEX.md)
+

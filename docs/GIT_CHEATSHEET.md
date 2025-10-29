@@ -107,6 +107,6 @@ gh auth login
 gh pr create -f -B main -t "title" -b "desc"
 gh pr status
 ```
-
 ---
-**Tips**: Commit small, pull often; write clear messages; use branches for features.
+[⬅ Back to Cheat Sheet Index](CHEATSHEET_INDEX.md)
+
