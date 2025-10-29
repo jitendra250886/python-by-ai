@@ -25,6 +25,10 @@ Quick access to all essential guides. Click a link to open the Markdown in previ
 ### 🔗 [LINUX_CHEATSHEET.md](LINUX_CHEATSHEET.md)
 **Why essential:** Most‑used Linux commands for navigation, permissions, users, search (`grep`, `find`), networking, compression, and system monitoring.
 
+### 🔗 CMD_WINDOWS_CHEATSHEET.md
+**Why essential:** Common CMD commands, batch scripting basics, and automation tips for Windows.
+
+
 ---
 
 **Tip:** Add a footer in each sheet like: `[⬅ Back to Cheat Sheet Index](CHEATSHEET_INDEX.md)` to improve navigation.
